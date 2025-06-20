@@ -2,8 +2,14 @@
 
 A custom [oh-my-zsh](https://ohmyz.sh) theme inspired by the [gozilla theme](https://github.com/ohmyzsh/ohmyzsh/wiki/themes#gozilla).
 
-![Preview Screenshot](previews/defaultTerminal.png)
-![Preview Screenshot](previews/transparentTerminal.png)
+
+default
+![Preview Screenshot](previews/defaultTerminalPreview.png)
+
+##
+
+my setup with ghostty and grayscale
+![Preview Screenshot](previews/ghosttyPreview.png)
 
 ## 📦 Installation
 
