@@ -6,7 +6,7 @@ ZSH_THEME_GIT_PROMPT_SUFFIX=")"
 ZSH_THEME_GIT_PROMPT_DIRTY=""
 ZSH_THEME_GIT_PROMPT_CLEAN=""
 
-RPROMPT='%{$FG[245]%}%D{%H:%M}%{$reset_color%} $(git_prompt_status)%{$reset_color%}'
+RPROMPT='%{$reset_color%} $(git_prompt_status)%{$reset_color%}'
 
 ZSH_THEME_GIT_PROMPT_ADDED="%{$FG[250]%}+"
 ZSH_THEME_GIT_PROMPT_MODIFIED="%{$FG[245]%}~"
